@@ -8,14 +8,7 @@
   <a><img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg"/></a>
 </p>
 
-<p align="center">
-	<a><img src="https://img.shields.io/github/issues/d2-projects/d2-admin.svg"/></a>
-	<a><img src="https://img.shields.io/github/issues-closed/d2-projects/d2-admin.svg"/></a>
-	<a><img src="https://img.shields.io/github/issues-pr/d2-projects/d2-admin.svg"/></a>
-	<a><img src="https://img.shields.io/github/issues-pr-closed/d2-projects/d2-admin.svg"/></a>
-	<a><img src="https://img.shields.io/github/forks/d2-projects/d2-admin.svg"/></a>
-	<a><img src="https://img.shields.io/github/stars/d2-projects/d2-admin.svg"/></a>
-</p>
+
 
 
 
